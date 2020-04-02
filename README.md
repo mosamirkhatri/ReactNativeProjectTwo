@@ -1,2 +1,2 @@
-# ReactProjectTwo
+# ReactNativeProjectTwo
 Some kind of Game
